@@ -16,9 +16,6 @@ Um exemplo de teste básico está disponível no arquivo teste.py.
 
 📦 Instalável via pip install keybeat-txrr
 
-🌐 Links
-PyPI - keybeat-txrr
-
-GitHub - KeyBeat
+[![PyPI version](https://img.shields.io/pypi/v/keybeat-txrr)](https://pypi.org/project/keybeat-txrr/)
 
 

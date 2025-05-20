@@ -1,5 +1,5 @@
 from fastapi import FastAPI, File, UploadFile
-from keybeat import analyze_audio
+from analyze_audio import analyze_audio
 import tempfile
 import os
 

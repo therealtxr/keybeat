@@ -1,5 +1,5 @@
 from fastapi import FastAPI, File, UploadFile
-from analyze_audio import analyze_audio
+from .analyzer import analyze_audio
 import tempfile
 import os
 

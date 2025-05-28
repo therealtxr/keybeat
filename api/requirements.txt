@@ -1,6 +1,0 @@
-librosa>=0.10
-fastapi
-uvicorn
-numpy
-scipy
-soundfile
